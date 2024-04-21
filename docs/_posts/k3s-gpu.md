@@ -1,7 +1,7 @@
 ---
-layout: page
-title: K3S GPU & AI on Kuberntes
-permalink: /k3s-gpu/
+layout: post
+date: 2024-04-21 22:30:00 -0000
+categories: GPU Kubernetes K3S AI
 ---
 
 
