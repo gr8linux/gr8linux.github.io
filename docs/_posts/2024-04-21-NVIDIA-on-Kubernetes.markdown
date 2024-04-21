@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2024-04-21 22:30:00 -0000
+date: 2024-04-21 22:48:03 +0200
 categories: GPU Kubernetes K3S AI
 ---
 # Setting Up an Nvidia GPU Node on k3s with Nvidia GPU Operator
