@@ -3,8 +3,6 @@ layout: post
 date: 2024-04-21 22:30:00 -0000
 categories: GPU Kubernetes K3S AI
 ---
-
-
 # Setting Up an Nvidia GPU Node on k3s with Nvidia GPU Operator
 
 This guide provides detailed steps on how to configure and run an Nvidia GPU node in a k3s cluster using the Nvidia GPU Operator. This setup allows you to leverage GPU resources for Kubernetes workloads.
