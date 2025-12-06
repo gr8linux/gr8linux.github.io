@@ -23,6 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: "gr8linux.github.io"
 url: "https://gr8linux.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+logo: /assets/images/logo-gr8linux.png
 twitter_username: jekyllrb
 github_username:  jekyll
 
@@ -31,6 +32,9 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+
+# Allow future-dated posts to show on the site
+future: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
