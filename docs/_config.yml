@@ -24,8 +24,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 domain: "gr8linux.github.io"
 url: "https://gr8linux.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /assets/images/logo-gr8linux.png
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username:
+github_username:  gr8linux
 
 # Build settings
 markdown: kramdown
